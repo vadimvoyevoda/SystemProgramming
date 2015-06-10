@@ -1,0 +1,119 @@
+﻿<Window x:Class="_2.Phone_Sms_T9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="550" Width="320">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="12*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox Grid.Row="0" Grid.ColumnSpan="6" Margin="5" Name="tbScreen" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Auto"></TextBox>
+        
+        <Button Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="2" Margin="30,5" Name="btnUp">Up</Button>
+        <Button Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="1" Margin="30,5" Name="btnLeft">Left</Button>
+        <Button Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="3" Margin="30,5" Name="btnRight">Right</Button>
+        <Button Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="2" Margin="30,5" Name="btnDown">Down</Button>
+
+        <Button Grid.Row="3" Grid.Column="0" Margin="5" Name="btnClear">C</Button>
+        <Button Grid.Row="3" Grid.Column="5" Margin="5" Name="btnAdd">Add</Button>
+        
+        <Button Grid.Row="4" Grid.Column="0" Margin="5" Name="btn1">1</Button>
+        <Button Grid.Row="4" Grid.Column="1" Margin="5" Name="btn2">
+            <Button.Content>
+                <StackPanel>
+                    <TextBlock HorizontalAlignment="Center">2</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">ABC</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">АБВГ</TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <Button Grid.Row="4" Grid.Column="2" Margin="5" Name="btn3">
+            <Button.Content>
+                <StackPanel>
+                    <TextBlock HorizontalAlignment="Center">3</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">DEF</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">ДЕЄЖЗ</TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <Button Grid.Row="4" Grid.Column="3" Margin="5" Name="btn4">
+            <Button.Content>
+                <StackPanel>
+                    <TextBlock HorizontalAlignment="Center">4</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">GHI</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">ИІЇКЛ</TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <Button Grid.Row="4" Grid.Column="4" Margin="5" Name="btn5">
+            <Button.Content>
+                <StackPanel>
+                    <TextBlock HorizontalAlignment="Center">5</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">JKL</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">МНОП</TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <Button Grid.Row="4" Grid.Column="5" Margin="5" Name="btn6">
+            <Button.Content>
+                <StackPanel>
+                    <TextBlock HorizontalAlignment="Center">6</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">MNO</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">РСТУ</TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+
+        <Button Grid.Row="5" Grid.Column="0" Margin="5" Name="btnZ">*</Button>
+        <Button Grid.Row="5" Grid.Column="1" Margin="5" Name="btn7">
+            <Button.Content>
+                <StackPanel>
+                    <TextBlock HorizontalAlignment="Center">7</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">PQRS</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">ФХЦЧ</TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <Button Grid.Row="5" Grid.Column="2" Margin="5" Name="btn8">
+            <Button.Content>
+                <StackPanel>
+                    <TextBlock HorizontalAlignment="Center">8</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">TUV</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">ШЩ</TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <Button Grid.Row="5" Grid.Column="3" Margin="5" Name="btn9">
+            <Button.Content>
+                <StackPanel>
+                    <TextBlock HorizontalAlignment="Center">9</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">WXYZ</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">ЬЮЯ</TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <Button Grid.Row="5" Grid.Column="4" Margin="5" Name="btn0">
+            <Button.Content>
+                <StackPanel>
+                    <TextBlock HorizontalAlignment="Center">0</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">+</TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>        
+        <Button Grid.Row="5" Grid.Column="5" Margin="5" Name="btnD">#</Button>
+    </Grid>
+</Window>
