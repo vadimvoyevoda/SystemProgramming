@@ -31,7 +31,14 @@
         <Button Grid.Row="3" Grid.Column="0" Margin="5" Name="btnClear">C</Button>
         <Button Grid.Row="3" Grid.Column="5" Margin="5" Name="btnAdd">Add</Button>
         
-        <Button Grid.Row="4" Grid.Column="0" Margin="5" Name="btn1">1</Button>
+        <Button Grid.Row="4" Grid.Column="0" Margin="5" Name="btn1">
+            <Button.Content>
+                <StackPanel>
+                    <TextBlock HorizontalAlignment="Center">1</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">.,?! -_</TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
         <Button Grid.Row="4" Grid.Column="1" Margin="5" Name="btn2">
             <Button.Content>
                 <StackPanel>
@@ -93,7 +100,7 @@
                 <StackPanel>
                     <TextBlock HorizontalAlignment="Center">8</TextBlock>
                     <TextBlock HorizontalAlignment="Center">TUV</TextBlock>
-                    <TextBlock HorizontalAlignment="Center">ШЩ</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">ШЩЬ</TextBlock>
                 </StackPanel>
             </Button.Content>
         </Button>
@@ -102,7 +109,7 @@
                 <StackPanel>
                     <TextBlock HorizontalAlignment="Center">9</TextBlock>
                     <TextBlock HorizontalAlignment="Center">WXYZ</TextBlock>
-                    <TextBlock HorizontalAlignment="Center">ЬЮЯ</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">ЮЯ</TextBlock>
                 </StackPanel>
             </Button.Content>
         </Button>
