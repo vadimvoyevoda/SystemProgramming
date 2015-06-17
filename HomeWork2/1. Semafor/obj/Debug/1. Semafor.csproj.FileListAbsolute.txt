@@ -1,0 +1,29 @@
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\bin\Debug\HomeWork2_TheadPool.exe.config
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\bin\Debug\HomeWork2_TheadPool.exe
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\bin\Debug\HomeWork2_TheadPool.pdb
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\obj\Debug\1. Semafor.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\obj\Debug\MainWindow.baml
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\obj\Debug\MainWindow.g.cs
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\obj\Debug\App.g.cs
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\obj\Debug\HomeWork2_TheadPool_MarkupCompile.cache
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\obj\Debug\HomeWork2_TheadPool.g.resources
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\obj\Debug\HomeWork2_TheadPool.Properties.Resources.resources
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\obj\Debug\1. Semafor.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\obj\Debug\HomeWork2_TheadPool.exe
+C:\Users\Вадим\Desktop\1. Semafor\HomeWork2_TheadPool\obj\Debug\HomeWork2_TheadPool.pdb
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\bin\Debug\HomeWork2_TheadPool.exe.config
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\obj\Debug\HomeWork2_TheadPool.exe
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\obj\Debug\HomeWork2_TheadPool.pdb
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\bin\Debug\HomeWork2_TheadPool.exe
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\bin\Debug\HomeWork2_TheadPool.pdb
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\obj\Debug\1. Semafor.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\obj\Debug\MainWindow.baml
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\obj\Debug\MainWindow.g.cs
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\obj\Debug\App.g.cs
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\obj\Debug\HomeWork2_TheadPool_MarkupCompile.cache
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\obj\Debug\HomeWork2_TheadPool.g.resources
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\obj\Debug\HomeWork2_TheadPool.Properties.Resources.resources
+C:\Users\Вадим\Desktop\HomeWork2\1. Semafor\obj\Debug\1. Semafor.csproj.GenerateResource.Cache
+C:\Users\Вадим\Documents\SystemProgramming\HomeWork2\1. Semafor\bin\Debug\HomeWork2_TheadPool.exe.config
+C:\Users\Вадим\Documents\SystemProgramming\HomeWork2\1. Semafor\obj\Debug\HomeWork2_TheadPool.exe
+C:\Users\Вадим\Documents\SystemProgramming\HomeWork2\1. Semafor\obj\Debug\HomeWork2_TheadPool.pdb

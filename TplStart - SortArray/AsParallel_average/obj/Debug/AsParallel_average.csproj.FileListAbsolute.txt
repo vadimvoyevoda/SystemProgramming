@@ -1,0 +1,6 @@
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\AsParallel_average\bin\Debug\AsParallel_average.exe.config
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\AsParallel_average\bin\Debug\AsParallel_average.exe
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\AsParallel_average\bin\Debug\AsParallel_average.pdb
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\AsParallel_average\obj\Debug\AsParallel_average.csprojResolveAssemblyReference.cache
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\AsParallel_average\obj\Debug\AsParallel_average.exe
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\AsParallel_average\obj\Debug\AsParallel_average.pdb

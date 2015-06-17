@@ -1,0 +1,13 @@
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\bin\Debug\ChildProcess2.exe.config
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\bin\Debug\ChildProcess2.exe
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\bin\Debug\ChildProcess2.pdb
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\obj\Debug\ChildProcess2.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\obj\Debug\MainWindow.baml
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\obj\Debug\MainWindow.g.cs
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\obj\Debug\App.g.cs
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\obj\Debug\ChildProcess2_MarkupCompile.cache
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\obj\Debug\ChildProcess2.g.resources
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\obj\Debug\ChildProcess2.Properties.Resources.resources
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\obj\Debug\ChildProcess2.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\obj\Debug\ChildProcess2.exe
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\ChildProcess2\obj\Debug\ChildProcess2.pdb

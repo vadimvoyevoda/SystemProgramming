@@ -1,0 +1,13 @@
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\obj\Debug\Process_Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\obj\Debug\MainWindow.baml
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\obj\Debug\MainWindow.g.cs
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\obj\Debug\App.g.cs
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\obj\Debug\Lesson1_Processes_Home_MarkupCompile.cache
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\obj\Debug\Lesson1_Processes_Home.g.resources
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\obj\Debug\Lesson1_Processes_Home.Properties.Resources.resources
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\obj\Debug\Process_Manipulation.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\bin\Debug\Lesson1_Processes_Home.exe.config
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\bin\Debug\Lesson1_Processes_Home.exe
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\bin\Debug\Lesson1_Processes_Home.pdb
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\obj\Debug\Lesson1_Processes_Home.exe
+C:\Users\Вадим\Desktop\Lesson1_Processes_Home\obj\Debug\Lesson1_Processes_Home.pdb

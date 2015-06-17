@@ -1,0 +1,9 @@
+C:\Users\Вадим\Desktop\WaitForExit\bin\Debug\WaitForExit.exe.config
+C:\Users\Вадим\Desktop\WaitForExit\bin\Debug\WaitForExit.exe
+C:\Users\Вадим\Desktop\WaitForExit\bin\Debug\WaitForExit.pdb
+C:\Users\Вадим\Desktop\WaitForExit\obj\Debug\WaitForExit.exe
+C:\Users\Вадим\Desktop\WaitForExit\obj\Debug\WaitForExit.pdb
+C:\Users\Вадим\Desktop\WaitForExit\obj\Debug\2. WaitForExit.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\Lesson1_Processes\2. WaitForExit\bin\Debug\WaitForExit.exe.config
+C:\Users\Вадим\Desktop\Lesson1_Processes\2. WaitForExit\obj\Debug\WaitForExit.exe
+C:\Users\Вадим\Desktop\Lesson1_Processes\2. WaitForExit\obj\Debug\WaitForExit.pdb

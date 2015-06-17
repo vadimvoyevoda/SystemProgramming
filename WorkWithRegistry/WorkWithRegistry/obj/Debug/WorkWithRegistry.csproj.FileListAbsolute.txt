@@ -1,0 +1,6 @@
+C:\Users\Вадим\Desktop\WorkWithRegistry\WorkWithRegistry\bin\Debug\WorkWithRegistry.exe.config
+C:\Users\Вадим\Desktop\WorkWithRegistry\WorkWithRegistry\bin\Debug\WorkWithRegistry.exe
+C:\Users\Вадим\Desktop\WorkWithRegistry\WorkWithRegistry\bin\Debug\WorkWithRegistry.pdb
+C:\Users\Вадим\Desktop\WorkWithRegistry\WorkWithRegistry\obj\Debug\WorkWithRegistry.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\WorkWithRegistry\WorkWithRegistry\obj\Debug\WorkWithRegistry.exe
+C:\Users\Вадим\Desktop\WorkWithRegistry\WorkWithRegistry\obj\Debug\WorkWithRegistry.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTable", "DataTable\DataTable.csproj", "{8E43A996-F2A3-45FB-B545-513B786E802C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphic", "Graphic\Graphic.csproj", "{B6CC8512-E159-4CF6-A213-0333FC6B8D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingControl", "UsingControl\UsingControl.csproj", "{8B3EB648-676D-4EFE-A251-12D890FB041B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E43A996-F2A3-45FB-B545-513B786E802C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E43A996-F2A3-45FB-B545-513B786E802C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E43A996-F2A3-45FB-B545-513B786E802C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E43A996-F2A3-45FB-B545-513B786E802C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6CC8512-E159-4CF6-A213-0333FC6B8D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CC8512-E159-4CF6-A213-0333FC6B8D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CC8512-E159-4CF6-A213-0333FC6B8D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CC8512-E159-4CF6-A213-0333FC6B8D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3EB648-676D-4EFE-A251-12D890FB041B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3EB648-676D-4EFE-A251-12D890FB041B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3EB648-676D-4EFE-A251-12D890FB041B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3EB648-676D-4EFE-A251-12D890FB041B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

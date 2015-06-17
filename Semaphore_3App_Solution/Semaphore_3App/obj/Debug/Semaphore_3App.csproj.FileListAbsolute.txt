@@ -1,0 +1,8 @@
+C:\Users\Вадим\Desktop\Semaphore_3App_Solution\Semaphore_3App\bin\Debug\Semaphore_3App.exe.config
+C:\Users\Вадим\Desktop\Semaphore_3App_Solution\Semaphore_3App\bin\Debug\Semaphore_3App.exe
+C:\Users\Вадим\Desktop\Semaphore_3App_Solution\Semaphore_3App\bin\Debug\Semaphore_3App.pdb
+C:\Users\Вадим\Desktop\Semaphore_3App_Solution\Semaphore_3App\obj\Debug\Semaphore_3App.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\Semaphore_3App_Solution\Semaphore_3App\obj\Debug\Semaphore_3App.Properties.Resources.resources
+C:\Users\Вадим\Desktop\Semaphore_3App_Solution\Semaphore_3App\obj\Debug\Semaphore_3App.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\Semaphore_3App_Solution\Semaphore_3App\obj\Debug\Semaphore_3App.exe
+C:\Users\Вадим\Desktop\Semaphore_3App_Solution\Semaphore_3App\obj\Debug\Semaphore_3App.pdb

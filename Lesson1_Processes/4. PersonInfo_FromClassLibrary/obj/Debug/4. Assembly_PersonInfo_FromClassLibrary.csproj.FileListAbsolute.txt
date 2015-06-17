@@ -1,0 +1,5 @@
+C:\Users\Вадим\Desktop\Lesson1_Processes\4. PersonInfo_FromClassLibrary\bin\Debug\_4.PersonInfo_FromClassLibrary.exe.config
+C:\Users\Вадим\Desktop\Lesson1_Processes\4. PersonInfo_FromClassLibrary\bin\Debug\_4.PersonInfo_FromClassLibrary.exe
+C:\Users\Вадим\Desktop\Lesson1_Processes\4. PersonInfo_FromClassLibrary\bin\Debug\_4.PersonInfo_FromClassLibrary.pdb
+C:\Users\Вадим\Desktop\Lesson1_Processes\4. PersonInfo_FromClassLibrary\obj\Debug\_4.PersonInfo_FromClassLibrary.exe
+C:\Users\Вадим\Desktop\Lesson1_Processes\4. PersonInfo_FromClassLibrary\obj\Debug\_4.PersonInfo_FromClassLibrary.pdb

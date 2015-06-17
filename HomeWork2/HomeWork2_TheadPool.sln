@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Semafor", "1. Semafor\1. Semafor.csproj", "{D1629AC3-8159-4C77-8919-9402AD01A0F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{FBE93426-3CF9-45DD-B148-2978887E4764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Phone_Sms_T9", "2. Phone_Sms_T9\2. Phone_Sms_T9.csproj", "{62886C34-744A-4887-A3A6-AABA5E04C7A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{865BB82A-3A93-4927-943E-AA5E5EF16187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1629AC3-8159-4C77-8919-9402AD01A0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1629AC3-8159-4C77-8919-9402AD01A0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1629AC3-8159-4C77-8919-9402AD01A0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1629AC3-8159-4C77-8919-9402AD01A0F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE93426-3CF9-45DD-B148-2978887E4764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE93426-3CF9-45DD-B148-2978887E4764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE93426-3CF9-45DD-B148-2978887E4764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE93426-3CF9-45DD-B148-2978887E4764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62886C34-744A-4887-A3A6-AABA5E04C7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62886C34-744A-4887-A3A6-AABA5E04C7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62886C34-744A-4887-A3A6-AABA5E04C7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62886C34-744A-4887-A3A6-AABA5E04C7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{865BB82A-3A93-4927-943E-AA5E5EF16187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865BB82A-3A93-4927-943E-AA5E5EF16187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865BB82A-3A93-4927-943E-AA5E5EF16187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865BB82A-3A93-4927-943E-AA5E5EF16187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

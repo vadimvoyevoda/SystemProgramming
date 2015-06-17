@@ -1,0 +1,9 @@
+C:\Users\Вадим\Desktop\FactorialDomains\FactorialRes\bin\Debug\FactorialRes.exe.config
+C:\Users\Вадим\Desktop\FactorialDomains\FactorialRes\bin\Debug\FactorialRes.exe
+C:\Users\Вадим\Desktop\FactorialDomains\FactorialRes\bin\Debug\FactorialRes.pdb
+C:\Users\Вадим\Desktop\FactorialDomains\FactorialRes\obj\Debug\FactorialRes.Form1.resources
+C:\Users\Вадим\Desktop\FactorialDomains\FactorialRes\obj\Debug\FactorialRes.Properties.Resources.resources
+C:\Users\Вадим\Desktop\FactorialDomains\FactorialRes\obj\Debug\FactorialRes.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\FactorialDomains\FactorialRes\obj\Debug\FactorialRes.exe
+C:\Users\Вадим\Desktop\FactorialDomains\FactorialRes\obj\Debug\FactorialRes.pdb
+C:\Users\Вадим\Desktop\FactorialDomains\FactorialRes\obj\Debug\FactorialRes.csprojResolveAssemblyReference.cache

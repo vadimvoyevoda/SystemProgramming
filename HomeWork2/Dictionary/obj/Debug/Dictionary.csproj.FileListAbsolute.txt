@@ -1,0 +1,5 @@
+C:\Users\Вадим\Documents\SystemProgramming\HomeWork2\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Вадим\Documents\SystemProgramming\HomeWork2\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Вадим\Documents\SystemProgramming\HomeWork2\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Вадим\Documents\SystemProgramming\HomeWork2\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Вадим\Documents\SystemProgramming\HomeWork2\Dictionary\obj\Debug\Dictionary.pdb

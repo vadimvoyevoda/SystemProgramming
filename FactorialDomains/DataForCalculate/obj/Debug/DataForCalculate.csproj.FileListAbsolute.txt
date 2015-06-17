@@ -1,0 +1,8 @@
+C:\Users\Вадим\Desktop\FactorialDomains\DataForCalculate\bin\Debug\DataForCalculate.exe.config
+C:\Users\Вадим\Desktop\FactorialDomains\DataForCalculate\obj\Debug\DataForCalculate.Form1.resources
+C:\Users\Вадим\Desktop\FactorialDomains\DataForCalculate\obj\Debug\DataForCalculate.Properties.Resources.resources
+C:\Users\Вадим\Desktop\FactorialDomains\DataForCalculate\obj\Debug\DataForCalculate.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\FactorialDomains\DataForCalculate\bin\Debug\DataForCalculate.exe
+C:\Users\Вадим\Desktop\FactorialDomains\DataForCalculate\bin\Debug\DataForCalculate.pdb
+C:\Users\Вадим\Desktop\FactorialDomains\DataForCalculate\obj\Debug\DataForCalculate.exe
+C:\Users\Вадим\Desktop\FactorialDomains\DataForCalculate\obj\Debug\DataForCalculate.pdb

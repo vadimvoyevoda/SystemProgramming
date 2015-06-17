@@ -1,0 +1,6 @@
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\TplStart - SortArray\bin\Debug\TplStart - SortArray.exe.config
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\TplStart - SortArray\obj\Debug\TplStart - SortArray.csprojResolveAssemblyReference.cache
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\TplStart - SortArray\bin\Debug\TplStart - SortArray.exe
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\TplStart - SortArray\bin\Debug\TplStart - SortArray.pdb
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\TplStart - SortArray\obj\Debug\TplStart - SortArray.exe
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\TplStart - SortArray\obj\Debug\TplStart - SortArray.pdb

@@ -1,0 +1,6 @@
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\Method Task.Result\bin\Debug\Method Task.Result.exe.config
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\Method Task.Result\obj\Debug\Method Task.Result.csprojResolveAssemblyReference.cache
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\Method Task.Result\bin\Debug\Method Task.Result.exe
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\Method Task.Result\bin\Debug\Method Task.Result.pdb
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\Method Task.Result\obj\Debug\Method Task.Result.exe
+c:\users\vadimvoyevoda\documents\visual studio 2012\Projects\TplStart - SortArray\Method Task.Result\obj\Debug\Method Task.Result.pdb

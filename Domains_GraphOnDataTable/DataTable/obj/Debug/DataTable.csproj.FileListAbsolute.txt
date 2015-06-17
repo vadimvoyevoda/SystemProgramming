@@ -1,0 +1,9 @@
+C:\Users\Вадим\Desktop\Domains_GraphOnDataTable\DataTable\bin\Debug\DataTable.exe.config
+C:\Users\Вадим\Desktop\Domains_GraphOnDataTable\DataTable\bin\Debug\DataTable.exe
+C:\Users\Вадим\Desktop\Domains_GraphOnDataTable\DataTable\bin\Debug\DataTable.pdb
+C:\Users\Вадим\Desktop\Domains_GraphOnDataTable\DataTable\obj\Debug\DataTable.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\Domains_GraphOnDataTable\DataTable\obj\Debug\DataTable.Form1.resources
+C:\Users\Вадим\Desktop\Domains_GraphOnDataTable\DataTable\obj\Debug\DataTable.Properties.Resources.resources
+C:\Users\Вадим\Desktop\Domains_GraphOnDataTable\DataTable\obj\Debug\DataTable.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\Domains_GraphOnDataTable\DataTable\obj\Debug\DataTable.exe
+C:\Users\Вадим\Desktop\Domains_GraphOnDataTable\DataTable\obj\Debug\DataTable.pdb

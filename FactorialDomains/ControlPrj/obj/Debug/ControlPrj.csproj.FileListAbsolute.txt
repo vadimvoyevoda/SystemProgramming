@@ -1,0 +1,7 @@
+C:\Users\Вадим\Desktop\FactorialDomains\ControlPrj\bin\Debug\ControlPrj.exe.config
+C:\Users\Вадим\Desktop\FactorialDomains\ControlPrj\obj\Debug\ControlPrj.Properties.Resources.resources
+C:\Users\Вадим\Desktop\FactorialDomains\ControlPrj\obj\Debug\ControlPrj.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\FactorialDomains\ControlPrj\bin\Debug\ControlPrj.exe
+C:\Users\Вадим\Desktop\FactorialDomains\ControlPrj\bin\Debug\ControlPrj.pdb
+C:\Users\Вадим\Desktop\FactorialDomains\ControlPrj\obj\Debug\ControlPrj.exe
+C:\Users\Вадим\Desktop\FactorialDomains\ControlPrj\obj\Debug\ControlPrj.pdb

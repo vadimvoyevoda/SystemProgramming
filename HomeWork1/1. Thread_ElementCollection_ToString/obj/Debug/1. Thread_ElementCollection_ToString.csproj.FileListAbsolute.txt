@@ -1,0 +1,6 @@
+C:\Users\Вадим\Desktop\HomeWork1\1. Thread_ElementCollection_ToString\bin\Debug\_1.Thread_ElementCollection_ToString.exe.config
+C:\Users\Вадим\Desktop\HomeWork1\1. Thread_ElementCollection_ToString\bin\Debug\_1.Thread_ElementCollection_ToString.exe
+C:\Users\Вадим\Desktop\HomeWork1\1. Thread_ElementCollection_ToString\bin\Debug\_1.Thread_ElementCollection_ToString.pdb
+C:\Users\Вадим\Desktop\HomeWork1\1. Thread_ElementCollection_ToString\obj\Debug\1. Thread_ElementCollection_ToString.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\HomeWork1\1. Thread_ElementCollection_ToString\obj\Debug\_1.Thread_ElementCollection_ToString.exe
+C:\Users\Вадим\Desktop\HomeWork1\1. Thread_ElementCollection_ToString\obj\Debug\_1.Thread_ElementCollection_ToString.pdb

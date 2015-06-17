@@ -1,0 +1,6 @@
+C:\Users\Вадим\Desktop\Registry_WinKey_Disable\Registry_WinKey_Disable\bin\Debug\Registry_WinKey_Disable.exe.config
+C:\Users\Вадим\Desktop\Registry_WinKey_Disable\Registry_WinKey_Disable\bin\Debug\Registry_WinKey_Disable.exe
+C:\Users\Вадим\Desktop\Registry_WinKey_Disable\Registry_WinKey_Disable\bin\Debug\Registry_WinKey_Disable.pdb
+C:\Users\Вадим\Desktop\Registry_WinKey_Disable\Registry_WinKey_Disable\obj\Debug\Registry_WinKey_Disable.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\Registry_WinKey_Disable\Registry_WinKey_Disable\obj\Debug\Registry_WinKey_Disable.exe
+C:\Users\Вадим\Desktop\Registry_WinKey_Disable\Registry_WinKey_Disable\obj\Debug\Registry_WinKey_Disable.pdb

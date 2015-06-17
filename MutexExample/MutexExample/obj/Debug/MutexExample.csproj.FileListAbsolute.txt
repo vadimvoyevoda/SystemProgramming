@@ -1,0 +1,7 @@
+C:\Users\Вадим\Desktop\MutexExample\MutexExample\bin\Debug\MutexExample.exe.config
+C:\Users\Вадим\Desktop\MutexExample\MutexExample\bin\Debug\MutexExample.exe
+C:\Users\Вадим\Desktop\MutexExample\MutexExample\bin\Debug\MutexExample.pdb
+C:\Users\Вадим\Desktop\MutexExample\MutexExample\obj\Debug\MutexExample.Properties.Resources.resources
+C:\Users\Вадим\Desktop\MutexExample\MutexExample\obj\Debug\MutexExample.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\MutexExample\MutexExample\obj\Debug\MutexExample.exe
+C:\Users\Вадим\Desktop\MutexExample\MutexExample\obj\Debug\MutexExample.pdb

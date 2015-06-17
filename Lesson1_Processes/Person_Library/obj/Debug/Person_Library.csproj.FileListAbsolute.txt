@@ -1,0 +1,5 @@
+C:\Users\Вадим\Desktop\Lesson1_Processes\Person_Library\bin\Debug\Person_Library.dll
+C:\Users\Вадим\Desktop\Lesson1_Processes\Person_Library\bin\Debug\Person_Library.pdb
+C:\Users\Вадим\Desktop\Lesson1_Processes\Person_Library\obj\Debug\Person_Library.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\Lesson1_Processes\Person_Library\obj\Debug\Person_Library.dll
+C:\Users\Вадим\Desktop\Lesson1_Processes\Person_Library\obj\Debug\Person_Library.pdb

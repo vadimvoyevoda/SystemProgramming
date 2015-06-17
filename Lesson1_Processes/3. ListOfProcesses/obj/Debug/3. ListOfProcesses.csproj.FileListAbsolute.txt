@@ -1,0 +1,6 @@
+C:\Users\Вадим\Desktop\Lesson1_Processes\3. ListOfProcesses\bin\Debug\_3.ListOfProcesses.exe.config
+C:\Users\Вадим\Desktop\Lesson1_Processes\3. ListOfProcesses\bin\Debug\_3.ListOfProcesses.exe
+C:\Users\Вадим\Desktop\Lesson1_Processes\3. ListOfProcesses\bin\Debug\_3.ListOfProcesses.pdb
+C:\Users\Вадим\Desktop\Lesson1_Processes\3. ListOfProcesses\obj\Debug\_3.ListOfProcesses.exe
+C:\Users\Вадим\Desktop\Lesson1_Processes\3. ListOfProcesses\obj\Debug\_3.ListOfProcesses.pdb
+C:\Users\Вадим\Desktop\Lesson1_Processes\3. ListOfProcesses\obj\Debug\3. ListOfProcesses.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Вадим\Desktop\ChildProcess\bin\Debug\ChildProcess.exe.config
+C:\Users\Вадим\Desktop\ChildProcess\bin\Debug\ChildProcess.exe
+C:\Users\Вадим\Desktop\ChildProcess\bin\Debug\ChildProcess.pdb
+C:\Users\Вадим\Desktop\ChildProcess\obj\Debug\ChildProcess.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\ChildProcess\obj\Debug\MainWindow.baml
+C:\Users\Вадим\Desktop\ChildProcess\obj\Debug\MainWindow.g.cs
+C:\Users\Вадим\Desktop\ChildProcess\obj\Debug\App.g.cs
+C:\Users\Вадим\Desktop\ChildProcess\obj\Debug\ChildProcess_MarkupCompile.cache
+C:\Users\Вадим\Desktop\ChildProcess\obj\Debug\ChildProcess.g.resources
+C:\Users\Вадим\Desktop\ChildProcess\obj\Debug\ChildProcess.Properties.Resources.resources
+C:\Users\Вадим\Desktop\ChildProcess\obj\Debug\ChildProcess.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\ChildProcess\obj\Debug\ChildProcess.exe
+C:\Users\Вадим\Desktop\ChildProcess\obj\Debug\ChildProcess.pdb

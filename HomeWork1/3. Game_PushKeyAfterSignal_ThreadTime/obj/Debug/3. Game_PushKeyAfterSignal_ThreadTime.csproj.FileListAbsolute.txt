@@ -1,0 +1,6 @@
+C:\Users\Вадим\Desktop\HomeWork1\3. Game_PushKeyAfterSignal_ThreadTime\bin\Debug\_3.Game_PushKeyAfterSignal_ThreadTime.exe.config
+C:\Users\Вадим\Desktop\HomeWork1\3. Game_PushKeyAfterSignal_ThreadTime\bin\Debug\_3.Game_PushKeyAfterSignal_ThreadTime.exe
+C:\Users\Вадим\Desktop\HomeWork1\3. Game_PushKeyAfterSignal_ThreadTime\bin\Debug\_3.Game_PushKeyAfterSignal_ThreadTime.pdb
+C:\Users\Вадим\Desktop\HomeWork1\3. Game_PushKeyAfterSignal_ThreadTime\obj\Debug\_3.Game_PushKeyAfterSignal_ThreadTime.exe
+C:\Users\Вадим\Desktop\HomeWork1\3. Game_PushKeyAfterSignal_ThreadTime\obj\Debug\_3.Game_PushKeyAfterSignal_ThreadTime.pdb
+C:\Users\Вадим\Desktop\HomeWork1\3. Game_PushKeyAfterSignal_ThreadTime\obj\Debug\3. Game_PushKeyAfterSignal_ThreadTime.csprojResolveAssemblyReference.cache

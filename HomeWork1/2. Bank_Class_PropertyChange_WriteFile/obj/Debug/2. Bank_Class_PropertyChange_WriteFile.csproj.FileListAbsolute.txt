@@ -1,0 +1,6 @@
+C:\Users\Вадим\Desktop\HomeWork1\2. Bank_Class_PropertyChange_WriteFile\bin\Debug\_2.Bank_Class_PropertyChange_WriteFile.exe.config
+C:\Users\Вадим\Desktop\HomeWork1\2. Bank_Class_PropertyChange_WriteFile\bin\Debug\_2.Bank_Class_PropertyChange_WriteFile.exe
+C:\Users\Вадим\Desktop\HomeWork1\2. Bank_Class_PropertyChange_WriteFile\bin\Debug\_2.Bank_Class_PropertyChange_WriteFile.pdb
+C:\Users\Вадим\Desktop\HomeWork1\2. Bank_Class_PropertyChange_WriteFile\obj\Debug\2. Bank_Class_PropertyChange_WriteFile.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\HomeWork1\2. Bank_Class_PropertyChange_WriteFile\obj\Debug\_2.Bank_Class_PropertyChange_WriteFile.exe
+C:\Users\Вадим\Desktop\HomeWork1\2. Bank_Class_PropertyChange_WriteFile\obj\Debug\_2.Bank_Class_PropertyChange_WriteFile.pdb

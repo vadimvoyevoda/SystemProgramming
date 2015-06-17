@@ -1,0 +1,8 @@
+C:\Users\Вадим\Desktop\HomeWork2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Вадим\Desktop\HomeWork2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Вадим\Desktop\HomeWork2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Вадим\Desktop\HomeWork2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Вадим\Desktop\HomeWork2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Вадим\Documents\SystemProgramming\HomeWork2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Вадим\Documents\SystemProgramming\HomeWork2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Вадим\Documents\SystemProgramming\HomeWork2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
